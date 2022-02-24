@@ -12,9 +12,5 @@ pharmacy has lots of sales in a day and the pharmacy needs a database system to 
 of all the payments. Each payment consists of one type of drug. Each pharmacy has one
 inventory.
 
-Functional Dependencies:
-Zip ->city
-pharmacy_ID ->phone_number
-person_ID -> phone_number
 
 <img width="714" alt="image" src="https://user-images.githubusercontent.com/53452296/155541496-7ffe3b2b-637b-436b-bf3d-5e4130ff025e.png">
